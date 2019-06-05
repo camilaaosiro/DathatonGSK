@@ -1,0 +1,3 @@
+A análise foi toda desenvolvida na plataforma Power Bi da Microsoft. O link para acesso ao relatório é : 
+
+https://app.powerbi.com/view?r=eyJrIjoiNjUyMDM0MWMtOTdjOC00Y2FmLWFmMzYtMGE2OTM4YThmNGUxIiwidCI6Ijc4NmU0MDgzLTdiMjMtNDRlOC04Y2FjLTQ4NGI5ZDRkOTVhMSJ9
