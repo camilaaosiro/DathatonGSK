@@ -1,0 +1,9 @@
+Como explicado por email, a forma que disponibilizamos nosso relatório no github (um link público para o relatório, como indicado no vídeo de lançamento do datathon)
+não suporta a exibição de alguns visuais que utilizamos, principalmente a parte de machine learning.
+
+Segue o link para download do arquivo fonte com o relatório elaborado no Power BI.
+
+https://drive.google.com/open?id=1huW5MLLsOlNBgjO7ivXEUWS9xzT84-p8
+
+Quando abrir o arquivo, favor atentar ao fato de que, por estar em modo de edição, é necessário manter a tecla Ctrl pressionada para utilizar os botões no relatório.
+Isso não acontece com o relatório publicado na web.
